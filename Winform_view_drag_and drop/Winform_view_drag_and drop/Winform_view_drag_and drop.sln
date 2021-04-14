@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2", "Winform_view_drag_and drop\Task 2.csproj", "{A721DF2A-CB55-432F-9DA5-DC7B76B31D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "Task_2\Task 1.csproj", "{D1F85A4F-6AE3-48FC-9A2C-E157A60CC579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3", "Task 3\Task 3.csproj", "{3C28CA65-7510-4346-84F1-4CAE508CFD45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A721DF2A-CB55-432F-9DA5-DC7B76B31D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A721DF2A-CB55-432F-9DA5-DC7B76B31D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A721DF2A-CB55-432F-9DA5-DC7B76B31D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A721DF2A-CB55-432F-9DA5-DC7B76B31D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F85A4F-6AE3-48FC-9A2C-E157A60CC579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F85A4F-6AE3-48FC-9A2C-E157A60CC579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F85A4F-6AE3-48FC-9A2C-E157A60CC579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F85A4F-6AE3-48FC-9A2C-E157A60CC579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C28CA65-7510-4346-84F1-4CAE508CFD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C28CA65-7510-4346-84F1-4CAE508CFD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C28CA65-7510-4346-84F1-4CAE508CFD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C28CA65-7510-4346-84F1-4CAE508CFD45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C56677C-9A23-4AE2-BD36-9657EA21D5B8}
+	EndGlobalSection
+EndGlobal
